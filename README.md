@@ -3,7 +3,7 @@
 # Candy Xie
 
 **cs** @ nyu tandon
-founder & ceo of [MeloMed](https://melomed.io) | music x tech x mental health
+| founder & ceo of [MeloMed](https://melomed.io) | music x tech x mental health
 
 </div>
 
