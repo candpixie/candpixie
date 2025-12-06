@@ -2,14 +2,13 @@
 
 # Candy Xie
 
-**CS** @ NYU Tandon School of Engineering '29  
-Founder & CEO of [MeloMed](https://melomed.io) | music x tech x mental health
+**cs** @ nyu tandon
+founder & ceo of [MeloMed](https://melomed.io) | music x tech x mental health
 
 </div>
 
 ---
-
-## 🚀 Currently Building
+## currently building
 
 **[MeloMed](https://melomed.io)** — AI-driven behavioral wellness platform  
 Combining music emotion recognition, lyric analysis, and journaling for Gen Z mental health support  
@@ -17,7 +16,7 @@ Combining music emotion recognition, lyric analysis, and journaling for Gen Z me
 
 ---
 
-## 💻 Tech Stack
+## tech stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -48,25 +47,25 @@ Combining music emotion recognition, lyric analysis, and journaling for Gen Z me
 
 ---
 
-## 🌍 Beyond Building
+## beyond building
 
 🎼 **Multi-Instrumentalist** — 10+ years classical recorder, violin, piano (clarinet, ukulele, flute, some percussion)
 
-🩰 **Dancer** — Ballet & contemporary dance
+🩰 **dancer** — Ballet & contemporary dance
 
-🏸 **Athlete** — Badminton and walking enthusiast
+🏸 **athlete** — Badminton and walking enthusiast
 
-📸 **Creative** — Photography, visuals and music composition and computation
+📸 **creative** — Photography, visuals and music composition and computation
 
-🌐 **Languages** — Native in English, Cantonese, Mandarin | Intermediate Spanish
+🌐 **languages** — Native in English, Cantonese, Mandarin | Intermediate Spanish
 
-📰 **Writer** — Journalling, Threads yapper
+📰 **writer** — Journalling, Threads yapper
 
 ---
 
 <div align="center">
 
-### 🙌 Let's Connect!
+### 🙌 let's connect!
 
 *Building at the intersection of engineering, AI, and human wellbeing*
 
