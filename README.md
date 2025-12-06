@@ -10,8 +10,8 @@
 ---
 ## currently building
 
-**[MeloMed](https://melomed.io)** — AI-driven behavioral wellness platform  
-Combining music emotion recognition, lyric analysis, and journaling for Gen Z mental health support  
+**[MeloMed](https://melomed.io)** — behavioral AI w music + journalling
+combining music emotion recognition, lyric analysis, and journaling for Gen Z mental health support  
 *Tech: Python, React, TensorFlow, OpenAI API, Spotify API*
 
 ---
@@ -49,7 +49,7 @@ Combining music emotion recognition, lyric analysis, and journaling for Gen Z me
 
 ## beyond building
 
-🎼 **Multi-Instrumentalist** — 10+ years classical recorder, violin, piano (clarinet, ukulele, flute, some percussion)
+🎼 **multi-instrumentalist** — 10+ years classical recorder, violin, piano (clarinet, ukulele, flute, some percussion)
 
 🩰 **dancer** — Ballet & contemporary dance
 
@@ -67,7 +67,7 @@ Combining music emotion recognition, lyric analysis, and journaling for Gen Z me
 
 ### 🙌 let's connect!
 
-*Building at the intersection of engineering, AI, and human wellbeing*
+*building at the intersection of engineering, AI, and human wellbeing*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/candpixie)
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:candyxie@nyu.edu)
