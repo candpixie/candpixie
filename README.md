@@ -51,15 +51,15 @@ combining music emotion recognition, lyric analysis, and journaling for Gen Z me
 
 🎼 **multi-instrumentalist** — 10+ years classical recorder, violin, piano (clarinet, ukulele, flute, some percussion)
 
-🩰 **dancer** — Ballet & contemporary dance
+🩰 **dancer** — ballet & contemporary dance
 
-🏸 **athlete** — Badminton and walking enthusiast
+🏸 **athlete** — badminton and walking enthusiast
 
-📸 **creative** — Photography, visuals and music composition and computation
+📸 **creative** — photography, visuals and music composition and computation
 
-🌐 **languages** — Native in English, Cantonese, Mandarin | Intermediate Spanish
+🌐 **languages** — native in English, Cantonese, Mandarin | intermediate Spanish
 
-📰 **writer** — Journalling, Threads yapper
+📰 **writer** — journalling, Threads yapper
 
 ---
 
