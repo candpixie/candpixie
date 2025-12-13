@@ -79,3 +79,10 @@ combining music emotion recognition, lyric analysis, and journaling for Gen Z me
 <div align="center">
 <sub>⭐️ based in hk & nyc | ship w soul, live w purpose | 香港 🇭🇰</sub>
 </div>
+
+<br>
+<br>
+
+<p align="center">
+<sub>·</sub> <img src="https://komarev.com/ghpvc/?username=candpixie&style=flat&color=silver&label=" height="6"/>
+</p>
