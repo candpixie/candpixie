@@ -83,6 +83,6 @@ combining music emotion recognition, lyric analysis, and journaling for Gen Z me
 <br>
 <br>
 
-<p align="center">
-<sub>·</sub> <img src="https://komarev.com/ghpvc/?username=candpixie&style=flat&color=silver&label=" height="6"/>
+<p align="right">
+<sub>·</sub> <img src="https://komarev.com/ghpvc/?username=candpixie&style=flat&color=999999&label=" height="6"/>
 </p>
