@@ -10,9 +10,7 @@
 ---
 ## currently building
 
-**[MeloMed](https://melomed.io)** — behavioral AI w music + journalling
-combining music emotion recognition, lyric analysis, and journaling for Gen Z mental health support  
-*Tech: Python, React, TensorFlow, OpenAI API, Spotify API*
+**[MeloMed](https://melomed.io)** — behavioral AI for mental health crisis prevention
 
 ---
 
