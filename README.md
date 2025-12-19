@@ -3,7 +3,7 @@
 # Candy Xie
 
 **cs** @ nyu tandon
-| founder & ceo of [MeloMed](https://melomed.io) | aspiring music technologist
+| building [MeloMed](https://melomed.io) | aspiring music technologist
 
 </div>
 
