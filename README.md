@@ -43,20 +43,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## beyond building
-
-🎼 **multi-instrumentalist** — 10+ years classical recorder, violin, piano (clarinet, ukulele, flute, some percussion)
-
-🩰 **dancer** — ballet & contemporary dance
-
-🏸 **athlete** — badminton and walking enthusiast
-
-📸 **creative** — photography, visuals and music composition and computation
-
-🌐 **languages** — native in English, Cantonese, Mandarin | intermediate Spanish
-
-📰 **writer** — journalling, Threads yapper
-
 ---
 
 <div align="center">
