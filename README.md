@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Candy Xie
+# hey! i'm candy!
 
 cs @ nyu tandon · researching safety of mental health LLMs · building [MeloMed](https://melomed.io)
 
