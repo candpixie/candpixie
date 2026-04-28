@@ -26,3 +26,5 @@ music technology · neuroscience · AI safety · human-computer interaction
 <div align="center">
 <sub>hk & nyc · 香港 🇭🇰</sub>
 </div>
+<p align="right">
+<sub>·</sub> <img src="https://komarev.com/ghpvc/?username=candpixie&style=flat&color=999999&label=" height="6"/>
