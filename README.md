@@ -19,7 +19,7 @@ cs @ nyu tandon · researching on mental health LLMs · building [MeloMed](https
 
 ## interests
 
-music technology · neuroscience · AI safety · human-computer interaction
+music technology · neuroscience · AI safety · human-computer interaction · linguistics · philosophy
 
 ---
 
