@@ -14,7 +14,7 @@ cs @ nyu tandon · researching on mental health LLMs · building [MeloMed](https
 ## what i'm working on
 
 **[MeloMed](https://melomed.io)** — behavioral AI for mental health crisis prevention
-</div>
+
 **[Gliss](https://gliss-rho.vercel.app)** — acoustic music visualizer
 
 ---
