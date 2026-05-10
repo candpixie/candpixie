@@ -17,7 +17,7 @@ cs @ nyu tandon · researching on mental health LLMs · building [MeloMed](https
 
 **[Gliss](https://gliss-rho.vercel.app)** — acoustic music visualizer
 
-**[2DooD- To Do or Doom](https://2dood.com)** — to-do list so you don't have to open notes app or gtask
+**[2DooD-- To Do or Doom](https://2dood.com)** — so you don't have to open notes app or gtask for todos
 
 ---
 
