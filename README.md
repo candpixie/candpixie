@@ -11,7 +11,7 @@
 
 ## what i'm working on
 
-**[MeloMed](https://melomed.io)** — behavioral AI for mental health crisis prevention
+**[MeloMed](https://melomed.io)** 
 
 **[Gliss](https://gliss-rho.vercel.app)** — acoustic music visualizer
 
