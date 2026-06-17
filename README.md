@@ -11,7 +11,7 @@
 
 ## what i'm working on
 
-**[MeloMed](https://melomed.io)** 
+**[MeloMed](https://melomed.io)** - music & journalling
 
 **[Gliss](https://gliss-rho.vercel.app)** — acoustic music visualizer
 
