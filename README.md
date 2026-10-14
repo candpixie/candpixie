@@ -29,4 +29,4 @@ music technology · neuroscience · AI safety · human-computer interaction · l
 <sub>hk & nyc · 香港 🇭🇰</sub>
 </div>
 <p align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=candpixie.candpixie&left_text=views&left_color=gray&right_color=gray" height="16"/>
+<img src="https://candpixie.vercel.app/api/views" height="16"/>
